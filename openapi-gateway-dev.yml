@@ -1,0 +1,4 @@
+spring:
+  rabbitmq:
+    host: rabiitmq.qfjava.cn
+    port: 8800
